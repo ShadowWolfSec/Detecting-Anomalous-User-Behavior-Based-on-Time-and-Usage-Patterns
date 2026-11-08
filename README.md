@@ -123,7 +123,7 @@ project-root/
 ├── artifacts/
 │   ├── models.rar
 │   ├── metadata/
-│   └── models/                 
+│   └── models/        # Extract models.rar here before running         
 ├── assets/
 │   ├── css/
 │   │   ├── login_styles.css
